@@ -18,6 +18,10 @@ Serverless Framework template for TypeScript support.
 To create Aws Api Lambda By TypeScript project
 
 ```bash
+npm i serverpost
+```
+
+```bash
 serverpost <projectname>
 ```
 
@@ -28,7 +32,7 @@ cd <projectname>
 
 install package
 ```
-yarn Or npm i
+yarn || npm i
 ```
 
 then deploy
